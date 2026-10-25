@@ -1,0 +1,30 @@
+# Local Python environments
+.venv/
+venv/
+env/
+
+# Python caches and tooling output
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.tmp/
+
+# Raw inputs and reproducible analysis outputs
+dataset/
+generated/
+
+# Local configuration and secrets
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Logs, editor, and operating-system files
+*.log
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

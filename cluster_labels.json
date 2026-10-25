@@ -1,0 +1,9 @@
+{
+  "input_features_sha256": "2d753aa481be5b70233913377fb5b248724287e3a77db1dcba8f9903c4a1959b",
+  "selected_k": 3,
+  "labels": {
+    "0": "Moderate activity, later submissions",
+    "1": "Limited participation",
+    "2": "Sustained activity"
+  }
+}
